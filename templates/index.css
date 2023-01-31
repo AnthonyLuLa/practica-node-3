@@ -1,0 +1,31 @@
+body {
+    margin:0
+    padding-bottom: 3rem;
+    font-family: -apple-system, system-ui, -apple-system,
+    BlinkMacSystemFront, 'segoe ui', roboto, Oxigen, ubuntu, 
+
+}
+
+#form{
+
+}
+
+#input{
+    border:none;
+    padding:
+}
+
+input:focus {
+    outline:none;
+}
+
+#mensajes{
+    list-style-tye:none;margin:0;padding:0;
+}
+
+#mensaje >li:nthchild(ood) {
+    background: # efefef;
+    border:none;
+    padding:0.25rem;
+    outline
+}
